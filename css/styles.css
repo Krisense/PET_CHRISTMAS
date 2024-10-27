@@ -2954,6 +2954,7 @@ img.u-pull-left {
     letter-spacing      : .35em;
     color               : white;
     transition-property : color, background-color;
+    background-color: forestgreen;
 }
 
 .mobile-home-link a:focus,
@@ -3141,6 +3142,7 @@ img.u-pull-left {
         text-align       : left;
         margin           : 0;
         border           : none;
+      
     }
 
     .main-nav ul li {
