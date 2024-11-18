@@ -3798,7 +3798,7 @@ img.u-pull-left {
 .modal-popup__cat {
     list-style   : none;
     margin-left  : 0;
-    font-size    : var(--text-sm);
+    font-size    : 15px;
     line-height  : var(--vspace-0_5);
     color        : rgba(0, 0, 0, 0.6);
     padding-left : calc(0.875 * var(--space));
